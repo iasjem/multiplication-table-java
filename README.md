@@ -1,2 +1,5 @@
-# multiplication-table-java
-A simple java program that demonstrates how Multiplication table works in Math
+# Multiplication Table (Java version)
+* Demonstrates how a [Multiplication Table](https://www.mathsisfun.com/tables.html) works
+* Created to simply practice coding in Java 
+
+### Created by [IasJem](https://github.com/iasjem)
